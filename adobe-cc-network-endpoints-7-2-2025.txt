@@ -456,3 +456,10 @@ stock-vip-processed-prod-irl1.s3.eu-west-1.amazonaws.com
 thumbs-0.s3.amazonaws.com
 videos-0.s3-eu-central-1.amazonaws.com
 cc-ext-prod-pkgs.s3.amazonaws.com/Extensions/**
+kessel-ws.parsec.app
+kessel-api.parsec.app
+builds.parsec.app
+builds.parsecgaming.com
+public.parsec.app
+parsecusercontent.com
+stun.parsec.app
