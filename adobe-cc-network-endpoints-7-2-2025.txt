@@ -419,9 +419,7 @@ globalsign.com
 godaddy.com
 twitter.com
 www.microsoft.com
-ftp.yourdomain.com
 www.amazon.com
-www.mp3licensing.com
 itunes.apple.com
 www.apple.com
 www.python.org
