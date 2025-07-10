@@ -461,3 +461,5 @@ builds.parsecgaming.com
 public.parsec.app
 parsecusercontent.com
 stun.parsec.app
+hyper3d.ai
+
