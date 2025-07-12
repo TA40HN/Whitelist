@@ -1,3 +1,4 @@
+adobe.com
 *.adobe.com                    # Adobe main domain
 *.adobe.io                     # Adobe API services
 *.adobecc.com                  # Creative Cloud services
