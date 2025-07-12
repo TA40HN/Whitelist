@@ -10,7 +10,7 @@
 *.adobeoobe.com
 *.adobe-services.com
 *.adobess.com
-https://cc-api-data.adobe.io/
+cc-api-data.adobe.io
 *.s3.amazonaws.com
 *.cloudfront.net
 
