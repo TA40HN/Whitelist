@@ -1,66 +1,50 @@
-###########Adobe Creative Cloud###########
-*.adobe.com
-*.adobe.io
-*.adobecc.com
-*.adobeccstatic.com
-*.adobegenuine.com
-*.adobe-identity.com
-*.adobelogin.com
-*.adobedc.net
-*.adobeoobe.com
-*.adobe-services.com
-*.adobess.com
-cc-api-data.adobe.io
-*.s3.amazonaws.com
-*.cloudfront.net
-
-###########Parsec Remote Desktop###########
-
-kessel-ws.parsec.app
-kessel-api.parsec.app
-builds.parsec.app
-builds.parsecgaming.com
-public.parsec.app
-parsecusercontent.com
-stun.parsec.app
-hyper3d.ai
-parsec.app
-
-###########Autodesk Services###########
-*.autodesk.com
-*.autodesk.eu
-*.autodesk.net
-access.clic.autodesk.com
-developer.api.autodesk.com
-
-###########Microsoft Services###########
-Entra ID (Azure AD)
-login.microsoftonline.com
-*.login.microsoftonline.com
-graph.microsoft.com
-*.graph.microsoft.com
-MDM (Intune)
-*.manage.microsoft.com
-enrollment.manage.microsoft.com
-portal.manage.microsoft.com
-*.devicereg.microsoft.com
-enterpriseregistration.windows.net
-Endpoint Security
-*.security.microsoft.com
-securitycenter.windows.com
-*.wdcp.microsoft.com
-*.wd.microsoft.com
-def-vef.wd.microsoft.com
-smartscreen.microsoft.com
-
-###########Authentication & Security Services###########
-*.okta.com
-*.hcaptcha.com
-hcaptcha.com
-crl3.digicert.com
-crl.microsoft.com
-*.digicert.com
-ctldl.windowsupdate.com
-
-###########Other Business Services###########
-monday.com
+*.adobe.com                    # Adobe main domain
+*.adobe.io                     # Adobe API services
+*.adobecc.com                  # Creative Cloud services
+*.adobeccstatic.com            # Creative Cloud static content
+*.adobegenuine.com             # License validation
+*.adobe-identity.com           # Authentication services
+*.adobelogin.com              # Login services
+*.adobedc.net                 # Data center services
+*.adobeoobe.com               # Out-of-box experience
+*.adobe-services.com          # Core Adobe services
+*.adobess.com                 # Adobe shared services
+https://cc-api-data.adobe.io/ # Creative Cloud API data
+*.s3.amazonaws.com            # AWS S3 for Adobe content
+*.cloudfront.net              # AWS CloudFront CDN
+kessel-ws.parsec.app          # Parsec WebSocket API
+kessel-api.parsec.app         # Parsec main API
+builds.parsec.app             # Software updates
+builds.parsecgaming.com       # Legacy update domain
+public.parsec.app             # Public API endpoints
+parsecusercontent.com         # User content delivery
+stun.parsec.app               # STUN server for NAT traversal
+hyper3d.ai                    # 3D streaming technology
+parsec.app                    # Main application domain
+*.autodesk.com                # Main Autodesk domain
+*.autodesk.eu                 # European services
+*.autodesk.net                # Network services
+access.clic.autodesk.com      # License access service
+developer.api.autodesk.com    # Developer API
+login.microsoftonline.com     # Microsoft login service
+*.login.microsoftonline.com   # Regional login services
+graph.microsoft.com           # Microsoft Graph API
+*.graph.microsoft.com         # Graph API endpoints
+*.manage.microsoft.com        # Intune management
+enrollment.manage.microsoft.com # Device enrollment
+portal.manage.microsoft.com   # Management portal
+*.devicereg.microsoft.com     # Device registration
+enterpriseregistration.windows.net # Enterprise registration
+*.security.microsoft.com      # Security center
+securitycenter.windows.com    # Windows Security Center
+*.wdcp.microsoft.com          # Windows Defender Cloud Protection
+*.wd.microsoft.com            # Windows Defender services
+def-vef.wd.microsoft.com      # Defender definition updates
+smartscreen.microsoft.com     # SmartScreen protection
+*.okta.com                    # Okta identity services
+*.hcaptcha.com                # hCaptcha anti-bot service
+hcaptcha.com                  # hCaptcha main domain
+crl3.digicert.com            # DigiCert certificate revocation
+crl.microsoft.com            # Microsoft certificate revocation
+*.digicert.com               # DigiCert certificate services
+ctldl.windowsupdate.com      # Windows certificate trust list
