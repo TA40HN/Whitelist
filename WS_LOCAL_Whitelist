@@ -9,7 +9,7 @@
 *.adobeoobe.com               # Out-of-box experience
 *.adobe-services.com          # Core Adobe services
 *.adobess.com                 # Adobe shared services
-https://cc-api-data.adobe.io/ # Creative Cloud API data
+cc-api-data.adobe.io          # Creative Cloud API data
 *.s3.amazonaws.com            # AWS S3 for Adobe content
 *.cloudfront.net              # AWS CloudFront CDN
 kessel-ws.parsec.app          # Parsec WebSocket API
