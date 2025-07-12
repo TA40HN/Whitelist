@@ -1,0 +1,66 @@
+###########Adobe Creative Cloud###########
+*.adobe.com
+*.adobe.io
+*.adobecc.com
+*.adobeccstatic.com
+*.adobegenuine.com
+*.adobe-identity.com
+*.adobelogin.com
+*.adobedc.net
+*.adobeoobe.com
+*.adobe-services.com
+*.adobess.com
+https://cc-api-data.adobe.io/
+*.s3.amazonaws.com
+*.cloudfront.net
+
+###########Parsec Remote Desktop###########
+
+kessel-ws.parsec.app
+kessel-api.parsec.app
+builds.parsec.app
+builds.parsecgaming.com
+public.parsec.app
+parsecusercontent.com
+stun.parsec.app
+hyper3d.ai
+parsec.app
+
+###########Autodesk Services###########
+*.autodesk.com
+*.autodesk.eu
+*.autodesk.net
+access.clic.autodesk.com
+developer.api.autodesk.com
+
+###########Microsoft Services###########
+Entra ID (Azure AD)
+login.microsoftonline.com
+*.login.microsoftonline.com
+graph.microsoft.com
+*.graph.microsoft.com
+MDM (Intune)
+*.manage.microsoft.com
+enrollment.manage.microsoft.com
+portal.manage.microsoft.com
+*.devicereg.microsoft.com
+enterpriseregistration.windows.net
+Endpoint Security
+*.security.microsoft.com
+securitycenter.windows.com
+*.wdcp.microsoft.com
+*.wd.microsoft.com
+def-vef.wd.microsoft.com
+smartscreen.microsoft.com
+
+###########Authentication & Security Services###########
+*.okta.com
+*.hcaptcha.com
+hcaptcha.com
+crl3.digicert.com
+crl.microsoft.com
+*.digicert.com
+ctldl.windowsupdate.com
+
+###########Other Business Services###########
+monday.com
