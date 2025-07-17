@@ -51,6 +51,7 @@ crl.microsoft.com            # Microsoft certificate revocation
 ctldl.windowsupdate.com      # Windows certificate trust list
 *.kaspersky.com
 api.azure-cdn.deemos.dev
+file.hyper3d.com
 m.stripe.network
 i2.wp.com
 s4.cnzz.com
