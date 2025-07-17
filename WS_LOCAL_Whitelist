@@ -49,3 +49,4 @@ crl3.digicert.com            # DigiCert certificate revocation
 crl.microsoft.com            # Microsoft certificate revocation
 *.digicert.com               # DigiCert certificate services
 ctldl.windowsupdate.com      # Windows certificate trust list
+*.kaspersky.com
