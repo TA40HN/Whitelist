@@ -50,3 +50,5 @@ crl.microsoft.com            # Microsoft certificate revocation
 *.digicert.com               # DigiCert certificate services
 ctldl.windowsupdate.com      # Windows certificate trust list
 *.kaspersky.com
+api.azure-cdn.deemos.dev
+m.stripe.networ
